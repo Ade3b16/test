@@ -8,6 +8,7 @@ int main () {
 
         cout << i << " ";
     }
+    cout << "\n\nma name jeaaf";
 
     return 0;
 }
